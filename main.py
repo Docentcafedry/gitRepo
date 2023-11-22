@@ -12,3 +12,6 @@ def meeting_rooms(rooms: list[list[int]]) -> list[list[int]]:
             return False
 
     return True
+
+if __name == "__main__":
+    my_func(name='Lesha', age=12)
